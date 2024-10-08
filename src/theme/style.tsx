@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     paddingVertical: 20,
     paddingHorizontal: 30,
-    backgroundColor: "#fbeaea", // Fondo suave en tonos rojos
+    backgroundColor: "#EAECFBFF", // Fondo suave en tonos azul
   },
   text: {
     fontSize: 25,
@@ -17,25 +17,25 @@ export const styles = StyleSheet.create({
   },
   input: {
     width: "100%",
-    backgroundColor: "#ffffff",
+    backgroundColor: "#FFFFFFFF",
     borderRadius: 14,
     paddingHorizontal: 15,
   },
   button: {
-    backgroundColor: "#d32f2f", // Rojo fuerte para los botones
+    backgroundColor: "#7E2FD3FF", // Rojo fuerte para los botones
     width: "100%",
     borderRadius: 14,
     marginVertical: 9,
     alignItems: "center",
   },
   buttonSignOut: {
-    backgroundColor: "#b71c1c", // Rojo más oscuro para Sign Out
+    backgroundColor: "#1C1CB7FF", // Rojo más oscuro para Sign Out
     width: "50%",
     borderRadius: 14,
     alignItems: "center",
   },
   buttonEditProfile: {
-    backgroundColor: "#d32f2f", // Rojo fuerte para editar perfil
+    backgroundColor: "#2F53D3FF", // Rojo fuerte para editar perfil
     width: "100%",
     borderRadius: 14,
     marginVertical: 9,
